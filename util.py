@@ -14,4 +14,4 @@ def on_each_file(fn, name: str = None, display: bool = False):
           print()
         ret.append(output)
   return ret
-        
+  
